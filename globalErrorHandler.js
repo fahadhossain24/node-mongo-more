@@ -6,12 +6,5 @@ const errorHandler = error => {
 }
 
 
-// common js type module exports 
-// module.exports = errorHandler
 module.exports = {errorHandler}
-// module.exports.errorHandler = errorHandler
 
-// modular type export 
-
-// export default errorHandler
-// export  {errorHandler}
